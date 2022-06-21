@@ -1,0 +1,14 @@
+- git init
+inicializa um repositório na pasta
+
+- git remote add origin (https) 
+cadastra um repositório
+
+- git status
+verifica a situação
+
+- git remove -v
+lista todos os repositórios cadastrados
+
+- git push origin master   
+empurra os commits locais para o github

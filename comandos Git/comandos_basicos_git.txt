@@ -12,8 +12,8 @@ Comandos git no Shell
 Comandos Git Bash 
 	- Git init : cria um repositório ( inicializa o repositório no git dentro do 			diretório )
 	- Ls -a: lista pastas ocultas 
-	- Git config --global user.email "capu.gabriel@gmail.com" : configuração de email 		atrelado ao repositório
-	- Git config --global user.name Gabriel : atrelado o nome ao repositório
+	- Git config --global user.email "rafaellstos@hotmail.com" : configuração de email 		atrelado ao repositório
+	- Git config --global user.name Rafael : atrelado o nome ao repositório
 	- Git add *:  move o arquivo untracked direto para o staged 
 	- Git commit - m " string qualquer":  faz o commit ao repositório 
 	- Git status: apresenta o status daquele repositório especifico, trazendo as 			alterações do mesmo 
@@ -24,4 +24,4 @@ Comandos Git Bash
 	- Git remote -v : lista os repositorios na sua maquina atreladas 
 	- Git push "origin(nome da banch)" master: Sobe o arquivo ou pasta para o 				repositorio especificado 
 	- Git pull : puxar as últimas alterações da feature 
-	- Git Clone : clona repositorios1310
+	- Git Clone : clona repositorios  1310

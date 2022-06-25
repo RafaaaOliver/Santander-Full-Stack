@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana;
+    background-color:rgb(36, 185, 178);
+    max-width: 900px;
+    margin: auto;
+}
+
+/* #title {
+    font-size: 40px;
+    text-transform: uppercase;
+} */
+
+post_img {
+    width: 100%;
+}
+
+#title, .subtitle, .post_title , a{
+    color: crimson;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post, .contato {
+    background: white;
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    /* text-transform: capitalize; */
+}
+
+.gatinho {
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 50%;
+}

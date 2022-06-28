@@ -2,7 +2,7 @@
 Conteúdo aprendido durante o BootCamp Santander Full Stack
 
 ## Projetos:
-1.[Recriação da página inical do instagram]()
+1. [Recriação da página inical do instagram]()
 
 ## Links úteis:
 - [Markdown basic-syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
